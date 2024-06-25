@@ -76,6 +76,9 @@ footer {
   }
 }
 
+a:hover {
+  color: green;
+}
 
 body {
   background-color: #68dc51;}
